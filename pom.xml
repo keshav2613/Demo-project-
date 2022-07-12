@@ -43,7 +43,7 @@
                          <version>3.0.0</version>
                         </plugin>
 		</plugins>
-		<finalName>JenkinsDemo</finalName>
+		<finalName>jenkinsdemo</finalName>
 	</build>
 
 </project>
