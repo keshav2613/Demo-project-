@@ -9,7 +9,7 @@ public class WelcomePage {
 	@GetMapping(value= "/welcome")
 	public String welcome() {
 		
-		return "Welcome to Jenkins";
+		return "Welcome ";
 	}
 
 }
